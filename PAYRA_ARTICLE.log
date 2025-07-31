@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.19)  31 JUL 2025 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.19)  31 JUL 2025 12:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,11 +273,11 @@ File: lead_ion.png Graphic file (type png)
 <use lead_ion.png>
 Package pdftex.def Info: lead_ion.png  used on input line 128.
 (pdftex.def)             Requested size: 109.1153pt x 93.0545pt.
-<copper_ion.png, id=17, 299.2635pt x 234.8775pt>
+<copper_ion.png, id=17, 239.805pt x 200.385pt>
 File: copper_ion.png Graphic file (type png)
 <use copper_ion.png>
 Package pdftex.def Info: copper_ion.png  used on input line 134.
-(pdftex.def)             Requested size: 109.1153pt x 85.63818pt.
+(pdftex.def)             Requested size: 109.1153pt x 91.17836pt.
  [2 <./fesem_rGO.png> <./fesem_MoS2.png> <./elec_char.png> <./xrd.png> <./lead_ion.png> <./copper_ion.png>] (PAYRA_ARTICLE.aux) ) 
 Here is how much of TeX's memory you used:
  4335 strings out of 476331
@@ -288,7 +288,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  67i,8n,77p,337b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on PAYRA_ARTICLE.pdf (2 pages, 728263 bytes).
+Output written on PAYRA_ARTICLE.pdf (2 pages, 724670 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
