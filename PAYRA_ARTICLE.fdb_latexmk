@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1753941514.33074 "d:/ECC_CRYPTO/PAYRA-ARTICLE/PAYRA_ARTICLE.tex" "PAYRA_ARTICLE.pdf" "PAYRA_ARTICLE" 1753941515.54647 0
+["pdflatex"] 1753942993.39831 "d:/ECC_CRYPTO/PAYRA-ARTICLE/PAYRA_ARTICLE.tex" "PAYRA_ARTICLE.pdf" "PAYRA_ARTICLE" 1753942994.54797 0
   "C:/Users/mukhe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1753680711 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/mukhe/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1752938782 23178960 f7d3444c890d0cbd675fa06622dfe7db ""
   "C:/Users/mukhe/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -55,10 +55,10 @@
   "C:/Users/mukhe/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/mukhe/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "C:/Users/mukhe/AppData/Local/Programs/MiKTeX/tex/latex/tools/indentfirst.sty" 1667242266 1618 6f0598aa81f9ba5cf5d393b4abd3e091 ""
-  "PAYRA_ARTICLE.aux" 1753941515 664 219f924c33dfa13ec0e40fbf3d5771d3 "pdflatex"
-  "PAYRA_ARTICLE.tex" 1753941513 5406 f3ddc7a869bfc2d8eac8f6fa4f3ba1ef ""
+  "PAYRA_ARTICLE.aux" 1753942994 664 219f924c33dfa13ec0e40fbf3d5771d3 "pdflatex"
+  "PAYRA_ARTICLE.tex" 1753942992 5406 88c1e39cb9bf534b51519a03aa728385 ""
   "copper_ion.png" 1753940998 156924 2ba356e8fc529bec1aa8a30454c924c2 ""
-  "d:/ECC_CRYPTO/PAYRA-ARTICLE/PAYRA_ARTICLE.tex" 1753941513 5406 f3ddc7a869bfc2d8eac8f6fa4f3ba1ef ""
+  "d:/ECC_CRYPTO/PAYRA-ARTICLE/PAYRA_ARTICLE.tex" 1753942992 5406 88c1e39cb9bf534b51519a03aa728385 ""
   "elec_char.png" 1753940905 139535 1322fffa768cd154fbb5486b59f52713 ""
   "fesem_MoS2.png" 1753940821 108129 bb9a94eb9f09b4baf4a75b5e897c4cb9 ""
   "fesem_rGO.png" 1753940808 55976 308dab30fd580e92c32ff4a805a078d8 ""
